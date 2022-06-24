@@ -8,4 +8,4 @@ This project is completed by:
 - @JollyFrankle
 
 Sources include:
-- (Go To College Dataset from Kaggle)[https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset]
+- [Go To College Dataset from Kaggle](https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset)
